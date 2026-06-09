@@ -1,0 +1,1 @@
+print(chosen_word)
