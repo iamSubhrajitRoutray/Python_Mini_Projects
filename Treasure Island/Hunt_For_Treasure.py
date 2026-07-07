@@ -1,4 +1,4 @@
-import Python_Mini_Projects.Treasure_Island.Island_Art as Island_Art
+import Island_Art
 
 def gameover(reason):
     print(f"\n💀 GAME OVER!")
